@@ -11,6 +11,7 @@
       - Superman (Version Eclatax)
       - Superman BVS
       - Big Thanos
+      - Zenitsu (from Demon Slayer)
  ### (SCRIPT AND MORE) : 
       - Addons Peds (for load modded characters)
       - Extended Flatbed3 (for the flatbed truck)
